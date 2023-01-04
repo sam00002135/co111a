@@ -11,5 +11,7 @@
 
 註記:
 第一章到第二張inc16為看圖跟影片(出自nand2tertris)、ALU到第五章則是參考/複製Duke people
+
+
 連結:https://www.google.com/search?q=dmux+duke+people&ei=y-a0Y-urL43l2roP5-62iA0&ved=0ahUKEwirvau18az8AhWNslYBHWe3DdEQ4dUDCA8&uact=5&oq=dmux+duke+people&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAEoECEYYAFAAWABgAGgAcAB4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp
 https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/chapter1/Nand.html
