@@ -10,4 +10,4 @@
 課程教材 | https://gitlab.com/cccnqu111/co
 
 註記:
-第一章到第二張inc16為看圖跟影片寫出ALU第五章則是參考/複製Duke people
+第一章到第二張inc16為看圖跟影片(出自nand2tertris)寫出ALU第五章則是參考/複製Duke people
